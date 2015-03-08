@@ -1,0 +1,1 @@
+var getHash=location.hash,getAccessToken;getAccessToken=getHash.split("&")[0].split("=")[1],console.log(getAccessToken);

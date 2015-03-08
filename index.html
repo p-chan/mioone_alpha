@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <title>Mioone</title>
+  <link rel="stylesheet" href="app.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/vue/0.11.5/vue.min.js"></script>
+  <script src="app.js"></script>
+  <script src="Chart.min.js"></script>
+</head>
+<body id="app">
+  <div class="login"><a href="https://api.iijmio.jp/mobile/d/v1/authorization/?response_type=token&client_id=OVWN6AuIOoyBpOXklMA&redirect_uri=http%3A%2F%2F192.168.2.127:5757&state=mioone">IIJmioログイン</a></div>
+  <div class="cards">
+    <div class="card" v-repeat="coupon">{{num}} : {{zan}}MB</div>
+  </div>
+</body>
+</html>
