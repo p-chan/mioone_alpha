@@ -22,34 +22,27 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/cb.html": {
-		"fileType": 8192,
+	"\/bg.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/cb.html",
-		"outputAbbreviatedPath": "No Output Path",
+		"initialSize": 169189,
+		"inputAbbreviatedPath": "\/bg.jpg",
+		"outputAbbreviatedPath": "\/bg.jpg",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
-	"\/cb.js": {
+	"\/Chart.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/cb.js",
-		"outputAbbreviatedPath": "\/min\/cb-min.js",
+		"inputAbbreviatedPath": "\/Chart.min.js",
+		"outputAbbreviatedPath": "\/min\/Chart.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/min\/app-min.js": {
 		"fileType": 64,
