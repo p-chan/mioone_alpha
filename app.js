@@ -13,7 +13,7 @@ if (!hash) {
 function setAccessToken () {
   var getAccessToken = hash.split("&")[0].split("=")[1];
   document.cookie = 'token=' + getAccessToken + ';' + 'max-age=7776000;';
-  location.href = "/";
+  location.href = "/mioone_alpha/";
 }
 
 function getJson () {
